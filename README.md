@@ -1,3 +1,4 @@
+![logo](https://github.com/miraz-alvee/miraz-alvee-/blob/main/miraz-alvee-banner.jpg)
 <h1 align="center">Hi 👋, I'm Miraz Or Rashid Alvee</h1>
 <h3 align="center">A passionate Software Developer Engineer from Bangladesh</h3>
 
